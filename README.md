@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# inkworld.in
+Blog website of Arti Rathor.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--inkworld--devdeepart.hlx.page/
+- Live: https://main--inkworld--devdeepart.hlx.live/
 
 ## Installation
 
